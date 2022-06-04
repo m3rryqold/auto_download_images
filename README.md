@@ -11,7 +11,7 @@ cd auto_download_images
 ```
 3. Installing prerequisites
 ```bash
-python -m pip install -r requirements.txt
+python3 -m pip install -r requirement.txt
 ```
 4. Run main.py and follow input prompts
 ```bash
