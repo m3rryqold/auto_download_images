@@ -1,10 +1,5 @@
 # auto_download_images
 
-## Installing Pre-requisites
-```bash
-python -m pip install -r requirements.txt
-```
-
 ## Usage
 1. Clone the repository
 ```bash
@@ -14,7 +9,11 @@ git clone git@github.com:m3rryqold/auto_download_images.git
 ```bash
 cd auto_download_images
 ```
-3. Run main.py and follow input prompts
+3. Installing prerequisites
+```bash
+python -m pip install -r requirements.txt
+```
+4. Run main.py and follow input prompts
 ```bash
 python3 main.py
 ```
